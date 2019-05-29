@@ -14,3 +14,4 @@ _This is two html pages, one as my first webpage and favorite things_
 
 
 Copyright (c) 2019 **_Holly DeBelser and Kira Roberts_**
+Licensed under MIT license 
