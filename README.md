@@ -1,17 +1,17 @@
-# _Two files: My first web page, Favorite things_
+# _My first web page, Favorite places Favorite things wit css stylesheet_
 
-#### _html page of My first webpage and Favorite things, May 28, 2019_
+#### _html page of My first webpage Favorite places and Favorite things, May 28, 2019_
 
-#### By _**Holly DeBelser, Kira Roberts**_
+#### By _**Holly DeBelser, Kira Roberts, Alex Sergejev**_
 
 ## Description
 
-_This is two html pages, one as my first webpage and favorite things_
+_This is three html pages with a css stylesheet, my first webpage, favorite places and favorite things_
 
 ## Setup/Installation Requirements
 
 * Open page in browser
 
 
-Copyright (c) 2019 **_Holly DeBelser and Kira Roberts_**
-Licensed under MIT license 
+Copyright (c) 2019 **_Holly DeBelser, Alex Sergejev and Kira Roberts_**
+Licensed under MIT license
