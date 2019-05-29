@@ -1,4 +1,4 @@
-# _My first web page, Favorite places Favorite things wit css stylesheet_
+# _My first web page, Favorite places Favorite things with css stylesheet_
 
 #### _html page of My first webpage Favorite places and Favorite things, May 28, 2019_
 
